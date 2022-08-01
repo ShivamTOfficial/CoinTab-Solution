@@ -84,7 +84,7 @@ For Part 1, it is evident from the Schema, that the following rows can be so der
 
 ### Tools required to Analyse Data
 
-Given that the data does not have too many rows, we can use **Ms-Excel** to do this. For joining tables, we can use **Power Query Editor.** 
+Given that the data does not have too many rows, we can use **Ms-Excel** to do this. For group by, we can use **Pivot Tables**. And finally for joining tables, we can use the **Power Query Editor.** 
 
 
 # Step 4: Putting Everything Together
