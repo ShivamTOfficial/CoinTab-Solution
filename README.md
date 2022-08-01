@@ -29,7 +29,7 @@ Create a rough schema of the database and note down pointers such as:
 
 #### C2 Table (Re-Designed)
 
-![image.png](attachment:1c624e65-ede8-4f68-b1d7-7342d11e902f.png)
+![Screenshot 2022-08-01 193217](https://user-images.githubusercontent.com/91784043/182167754-21461d80-9ca2-4da1-9be5-96d7b2aabf53.png)
 
 # Step 3: Defining Problem Statement
 
@@ -211,7 +211,7 @@ First let's convert this into KGs:
 
 Save all the change in the file. <br/><br/><br/>
 
-![image.png](attachment:846367fc-0d89-401c-946a-d8a0bea5e25c.png)
+![Screenshot 2022-08-01 185515](https://user-images.githubusercontent.com/91784043/182167841-913f58a1-d493-494e-8976-4aa0efe9438e.png)
 
 <br/>
 
@@ -233,7 +233,7 @@ A pivot table is created in another tab.
 8. Replace "=0"  as condition with <0 to get overcharged orders
 
 In this manner, we have created a table that looks like this: <br/><br/><br/>
-![image.png](attachment:aa969ae0-ee08-4398-a70b-a43e7858e576.png)
+![Screenshot 2022-08-01 185248](https://user-images.githubusercontent.com/91784043/182167863-353849d8-3a75-4f60-aec9-2a235a1630de.png)
 
 
 # Step 7: Clean Up
