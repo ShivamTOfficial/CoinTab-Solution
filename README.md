@@ -15,10 +15,10 @@ Each table is associated with an alias to identify whether it's related to *Cour
 ## Step 2: Exploratory Data Analysis
 
 Create a rough schema of the database and note down pointers such as:
-    1. Data Types
-    2. Column with unique values
-    3. Any Null Values present?
-    4. Column Type (Categ./ Cont./ Qualitiative)
+1. Data Types
+2. Column with unique values
+3. Any Null Values present?
+4. Column Type (Categ./ Cont./ Qualitiative)
     
     
 ### Observations
