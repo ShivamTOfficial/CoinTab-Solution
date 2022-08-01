@@ -5,12 +5,12 @@
 Having downloaded and unzipped all .xlsx files, we take a brief look at them.
 
 Each table is associated with an alias to identify whether it's related to *Courier Company (C)* or *The Company X.*
-    1. Company X - Order Report &nbsp; &nbsp; **{X1}**
-    2. Company X - Pincode Zones &nbsp; &nbsp; **{X2}**
-    3. Company X - SKU Master &nbsp; &nbsp; **{X3}**
-    4. Courier Company - Rates &nbsp; &nbsp; **{C1}**
-    5. Courier Company - Invoice &nbsp; &nbsp; **{C2}**
-    6. Expected_Result
+1. Company X - Order Report &nbsp; &nbsp; **{X1}**
+2. Company X - Pincode Zones &nbsp; &nbsp; **{X2}**
+3. Company X - SKU Master &nbsp; &nbsp; **{X3}**
+4. Courier Company - Rates &nbsp; &nbsp; **{C1}**
+5. Courier Company - Invoice &nbsp; &nbsp; **{C2}**
+6. Expected_Result
     
 ## Step 2: Exploratory Data Analysis
 
