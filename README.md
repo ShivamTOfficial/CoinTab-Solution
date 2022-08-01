@@ -57,7 +57,7 @@ Create a summary table
 
 
 
-## Observations
+### Observations
 
 Part 2 would be a pivot table (summary table) derived out of Part 1.
 
@@ -82,7 +82,7 @@ For Part 1, it is evident from the Schema, that the following rows are present i
 
 
 
-## Tools required to Analyse Data
+### Tools required to Analyse Data
 
 Given that the data does not have too many rows, we can use **Ms-Excel** to do this. For joining tables, we can use **Power Query Editor.** 
 
