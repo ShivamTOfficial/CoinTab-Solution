@@ -61,9 +61,9 @@ Create a summary table
 
 Part 2 would be a pivot table (summary table) derived out of Part 1.
 
-For Part 1, it is evident from the Schema, that the following rows are present in respective tables:
+For Part 1, it is evident from the Schema, that the following rows can be so derived:
 
-1. C1
+1. From Table C1
 * Order ID  
 * AWB Number 
 * Total weight as per Courier Company (KG)
